@@ -12,11 +12,9 @@ This is a simple personal portfolio website built with HTML and CSS. It showcase
 - **style.css**: Styling for the website.
 - **profile.jpg**: Profile picture used in the website.
 
-## How to View
 
-1. Clone or download the repository.
-2. Open `index.html` in a web browser to view the portfolio.
 
 ## Author
 
-- Your Name
+- Sonam Choki
+Update test
